@@ -1,1 +1,14 @@
+### Git:
+Git is a powerful tool that constantly keeps track of every changes you make to your files.
+( What changed?, Where changed?, When changed?, Who changed? )
+Git != GitHub (they are connected, but not same)
+
+### Git versions:
+Git lets you keep different versions of same file effortlessly.
+You can rollback to any previous versions in a moment.
+
+### Diff. b/w Git &GitHub:
+
+Git is a tool that locally runs on your own computer.
+GitHub is a cloud-based platform where you can host Git repositories, store your code remotely, and collaborate with other developers.
 
