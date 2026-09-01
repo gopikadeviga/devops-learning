@@ -1,8 +1,8 @@
 ## Git Version
 **Syntax:**
-```bash
-$ git --version
-
+```
+git --version
+```
 Example:
 git version 2.55.0.windows.5
 
@@ -17,12 +17,12 @@ Copy the repository URL.
 Run the git clone command in Git Bash.
 
 **Syntax:**
-```bash
+```
 git clone <repository-URL>
-
+```
 Example:
-git clone https://github.com/gopika/git-jou.git
+git clone https://github.com/gopikadeviga/git-journey.git
 
-This creates a local copy of the git-jou repository on your computer.
+This creates a local copy of the git-journey repository on your computer.
 
 
