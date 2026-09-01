@@ -1,1 +1,28 @@
+## Git Version
+**Syntax:**
+```bash
+$ git --version
+
+Example:
+git version 2.55.0.windows.5
+
+## Git Clone
+**Purpose:** Clone a remote repository to the local machine.
+
+Steps
+Open the repository on GitHub.
+Click Code.
+Select HTTPS.
+Copy the repository URL.
+Run the git clone command in Git Bash.
+
+**Syntax:**
+```bash
+git clone <repository-URL>
+
+Example:
+git clone https://github.com/gopika/git-jou.git
+
+This creates a local copy of the git-jou repository on your computer.
+
 
