@@ -25,4 +25,14 @@ git clone https://github.com/gopikadeviga/git-journey.git
 
 This creates a local copy of the git-journey repository on your computer.
 
+## Git status
+**Purpose:** Check the current status of the working directory and see what changes have been made.
+
+**Syntax:**
+```
+git status
+```
+
+
+
 
