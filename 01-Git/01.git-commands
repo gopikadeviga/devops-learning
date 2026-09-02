@@ -63,6 +63,17 @@ git add *
 ```
 Stages new or modified files, not the deleted ones.
 
+Syntax:
+```
+git add <File> 
+```
+Stages the specific file.
+
+Example:
+git add one.txt
+(or)
+git add myFolder/two.txt
+
 ## Git reset
 Purpose: Unstage changes that have been added to the staging area.
 
