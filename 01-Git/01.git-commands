@@ -1,5 +1,5 @@
 ## Git Version
-**Syntax:**
+Syntax:
 ```
 git --version
 ```
@@ -7,7 +7,7 @@ Example:
 git version 2.55.0.windows.5
 
 ## Git Clone
-**Purpose:** Clone a remote repository to the local machine.
+Purpose: Clone a remote repository to the local machine.
 
 Steps
 Open the repository on GitHub.
@@ -16,7 +16,7 @@ Select HTTPS.
 Copy the repository URL.
 Run the git clone command in Git Bash.
 
-**Syntax:**
+Syntax:
 ```
 git clone <repository-URL>
 ```
@@ -26,13 +26,42 @@ git clone https://github.com/gopikadeviga/git-journey.git
 This creates a local copy of the git-journey repository on your computer.
 
 ## Git status
-**Purpose:** Check the current status of the working directory and see what changes have been made.
+Purpose:Check the current status of the working directory and see what changes have been made.
 
-**Syntax:**
+Syntax:
 ```
 git status
 ```
+## Git add
+Purpose: Add changes from the working directory to the staging area so they can be included in the next commit.
 
+Syntax:
+```
+git add --all 
+```
+(or)
+```
+git add -A
+```
+Adds all changes in the repository to the staging area, including:
+New files,
+Modified files,
+Deleted files.
 
+Syntax:
+```
+git add . 
+```
+Stages changes from the current directory and its subdirectories.
+It is commonly used to stage all changes within the current project directory.
 
+Note: git add . and git add -A are not always exactly the same, especially when dealing with deletions and the location from which the command is run.
+
+## Git reset
+Purpose: Unstage changes that have been added to the staging area.
+
+Syntax:
+```
+git reset
+```
 
