@@ -74,6 +74,9 @@ git add one.txt
 (or)
 git add myFolder/two.txt
 
+To stage all the '.txt' files
+git add *.txt
+
 ## Git reset
 Purpose: Unstage changes that have been added to the staging area.
 
