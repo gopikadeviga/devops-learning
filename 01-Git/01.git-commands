@@ -57,6 +57,12 @@ It is commonly used to stage all changes within the current project directory.
 
 Note: git add . and git add -A are not always exactly the same, especially when dealing with deletions and the location from which the command is run.
 
+Syntax:
+```
+git add * 
+```
+Stages new or modified files, not the deleted ones.
+
 ## Git reset
 Purpose: Unstage changes that have been added to the staging area.
 
@@ -64,4 +70,3 @@ Syntax:
 ```
 git reset
 ```
-
