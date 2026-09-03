@@ -84,3 +84,16 @@ Syntax:
 ```
 git reset
 ```
+## Git config
+Purpose:
+
+Syntax:
+```
+git config --global user.email "<email id>"
+git config --global user.name "<name>"
+```
+
+Syntax:
+```
+git config --local user.email "<email>"
+```
