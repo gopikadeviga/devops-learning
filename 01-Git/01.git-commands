@@ -102,3 +102,13 @@ Syntax:
 ```
 git config --local user.email "<email>"
 ```
+### Git commit
+Purpose: Save the staged changes as a commit in the local Git repository.
+
+Syntax:
+```
+git commit -m "<commit message>"
+```
+git commit -m "I have made some changes to files"
+
+Note: Before committing, changes need to be added to the staging area using "git add".
