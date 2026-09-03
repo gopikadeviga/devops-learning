@@ -77,6 +77,22 @@ git add myFolder/two.txt
 To stage all the '.txt' files
 git add *.txt
 
+## Git remove
+Syntax:
+1.git rm <filename>
+
+Example: git rm one.txt
+Deletes one.txt file and also stages it at the same time.
+
+2.git rm -f <filename>
+Forcefull deletion even if any uncommited changes are made.
+
+3.git rm --cached <filename>
+Removes files from the staging area, but will not be deleted. Still will be present in the desktop but untracked.
+
+4.git rm -r <folder>
+Recursive removal - Removes all the subfolders or files in it recursively
+
 ## Git reset
 Syntax:
 1.git reset
@@ -120,3 +136,8 @@ Example:
 git commit -m "I have made some changes to files"
 
 Note: Before committing, changes need to be added to the staging area using "git add".
+
+## Git log
+Syntax
+git log
+Gives the full commit history with details
