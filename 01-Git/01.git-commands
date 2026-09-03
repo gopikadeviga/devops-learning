@@ -78,12 +78,18 @@ To stage all the '.txt' files
 git add *.txt
 
 ## Git reset
-Purpose: Unstage changes that have been added to the staging area.
-
 Syntax:
-```
-git reset
-```
+1.git reset
+Purpose: Unstage changes that have been added to the staging area.
+This moves the changes from the staging area back to the working directory without deleting the changes.
+
+2.git reset HEAD~
+Purpose: Undo the last commit while keeping the changes in the working directory.
+The last commit is removed from the current branch, but the changes made in that commit are kept so they can be modified or committed again.
+
+3.git reset --hard
+Purpose: Remove staged and unstaged changes and make the working directory match the current commit.
+
 ### Git config
 Purpose: Configure your Git username and email address. Git uses this information to identify the author of commits.
 
