@@ -84,14 +84,19 @@ Syntax:
 ```
 git reset
 ```
-## Git config
-Purpose:
+### Git config
+Purpose: Configure your Git username and email address. Git uses this information to identify the author of commits.
+
+## Global Configuration
+Global configuration applies to all repositories for the current user on the computer.
 
 Syntax:
 ```
 git config --global user.email "<email id>"
 git config --global user.name "<name>"
 ```
+## Local Configuration
+Local configuration applies only to the current repository.
 
 Syntax:
 ```
