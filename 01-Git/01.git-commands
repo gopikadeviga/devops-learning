@@ -109,6 +109,8 @@ Syntax:
 ```
 git commit -m "<commit message>"
 ```
+
+Example:
 git commit -m "I have made some changes to files"
 
 Note: Before committing, changes need to be added to the staging area using "git add".
