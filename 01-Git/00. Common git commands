@@ -1,1 +1,51 @@
+git init
+git clone <url>
 
+git status
+
+git add <file>
+git add .
+git add -A
+
+git commit -m "message"
+
+git log
+git log --oneline
+git show
+
+git diff
+git diff --staged
+
+git branch
+git branch <name>
+git switch <name>
+git switch -c <name>
+git branch -d <name>
+
+git merge <branch>
+
+git remote -v
+git remote add origin <url>
+
+git fetch
+git pull
+git push
+
+git stash
+git stash pop
+
+git reset
+git reset --soft HEAD~1
+git reset --mixed HEAD~1
+git reset --hard HEAD~1
+
+git revert <commit>
+
+git restore <file>
+git restore --staged <file>
+
+git rm <file>
+git rm --cached <file>
+
+git tag
+git tag <tag>
