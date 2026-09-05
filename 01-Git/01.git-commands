@@ -140,3 +140,6 @@ Note: Before committing, changes need to be added to the staging area using "git
 Syntax
 git log
 Gives the full commit history with details
+
+git log --oneline
+Gives only essential online info..
