@@ -8,7 +8,9 @@ Git lets you keep different versions of same file effortlessly.
 You can rollback to any previous versions in a moment.
 
 ### Diff. b/w Git &GitHub:
-
 Git is a tool that locally runs on your own computer.
 GitHub is a cloud-based platform where you can host Git repositories, store your code remotely, and collaborate with other developers.
+
+### Github Gist :
+itHub Gist is a simple way to share a small piece of code, commands, notes, or text on GitHub.
 
