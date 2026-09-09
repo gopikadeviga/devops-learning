@@ -8,7 +8,7 @@ git version 2.55.0.windows.5
 ## Git Clone
 Purpose: Clone a remote repository to the local machine.
 
-Steps
+Steps:
 Open the repository on GitHub.
 Click Code.
 Select HTTPS.
