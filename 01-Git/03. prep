@@ -27,3 +27,7 @@ CONTRIBUTING.md is how to contribute.
 README is the front page. LICENSE is reuse terms. 
 Valid CODEOWNERS locations: root, docs/, .github/.
 
+GitHub Flow :
+Branch → commit → open PR → review → merge → delete the branch.
+
+
