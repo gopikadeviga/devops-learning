@@ -10,3 +10,12 @@ Codespaces vs github.dev :
 github.dev: press . on any repo, free, browser editor, no terminal, no compute, cannot run or debug code. 
 Codespaces: a container on a VM, full terminal, run and debug, billed by compute and storage with a free monthly quota, configured by .devcontainer/devcontainer.json, and prebuilds prepare that setup in advance so startup is fast. 
 The test is always "do they need to run code?" If yes, Codespaces.
+
+Actions vocabulary. 
+An event (push, pull_request, schedule, workflow_dispatch) triggers a workflow, which is a YAML file in .github/workflows/. 
+A workflow contains jobs, which run in parallel by default. 
+Jobs contain steps, which are either shell commands or reusable actions from the Marketplace. 
+Jobs run on runners: 
+GitHub-hosted gives each job a fresh, throwaway VM (Ubuntu, Windows or macOS); 
+self-hosted runs on your own machines. 
+Nothing persists between runs.
