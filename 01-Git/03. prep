@@ -30,5 +30,6 @@ Valid CODEOWNERS locations: root, docs/, .github/.
 GitHub Flow :
 Branch → commit → open PR → review → merge → delete the branch.
 
+workflows automate work; dev containers configure your workspace.
 
 
