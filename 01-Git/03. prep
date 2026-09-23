@@ -6,3 +6,7 @@ Write pushes code.
 Maintain manages the repo but can't do destructive things. 
 Admin can change settings and delete the repo. 
 
+Codespaces vs github.dev :
+github.dev: press . on any repo, free, browser editor, no terminal, no compute, cannot run or debug code. 
+Codespaces: a container on a VM, full terminal, run and debug, billed by compute and storage with a free monthly quota, configured by .devcontainer/devcontainer.json, and prebuilds prepare that setup in advance so startup is fast. 
+The test is always "do they need to run code?" If yes, Codespaces.
