@@ -1,1 +1,8 @@
+The role ladder : 
+Read → Triage → Write → Maintain → Admin. 
+Read views and comments. 
+Triage adds managing issues and PRs, still no code push. 
+Write pushes code. 
+Maintain manages the repo but can't do destructive things. 
+Admin can change settings and delete the repo. 
 
