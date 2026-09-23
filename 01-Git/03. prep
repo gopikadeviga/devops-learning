@@ -20,3 +20,9 @@ GitHub-hosted gives each job a fresh, throwaway VM (Ubuntu, Windows or macOS);
 self-hosted runs on your own machines. 
 Nothing persists between runs.
 
+CODEOWNERS vs the other repo files :
+CODEOWNERS maps file paths to reviewers, who get auto-requested. 
+SECURITY.md is how to report vulnerabilities. 
+CONTRIBUTING.md is how to contribute. 
+README is the front page. LICENSE is reuse terms. 
+Valid CODEOWNERS locations: root, docs/, .github/.
