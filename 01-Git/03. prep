@@ -20,6 +20,8 @@ GitHub-hosted gives each job a fresh, throwaway VM (Ubuntu, Windows or macOS);
 self-hosted runs on your own machines. 
 Nothing persists between runs.
 
+workflows automate work; dev containers configure your workspace.
+
 CODEOWNERS vs the other repo files :
 CODEOWNERS maps file paths to reviewers, who get auto-requested. 
 SECURITY.md is how to report vulnerabilities. 
@@ -30,6 +32,5 @@ Valid CODEOWNERS locations: root, docs/, .github/.
 GitHub Flow :
 Branch → commit → open PR → review → merge → delete the branch.
 
-workflows automate work; dev containers configure your workspace.
 
 
