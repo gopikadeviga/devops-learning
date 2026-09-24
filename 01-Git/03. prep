@@ -1,5 +1,5 @@
 The role ladder : 
-Read → Triage → Write → Maintain → Admin. 
+Read → Triage → Write → Maintain → Admin.
 Read views and comments. 
 Triage adds managing issues and PRs, still no code push. 
 Write pushes code. 
