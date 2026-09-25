@@ -18,3 +18,4 @@ Gist = small piece of code/text to share.
 Fork = make your own copy while keeping the connection/history.
 
 Merge branch
+Branch → commit → open PR → review → merge → delete the branch.
