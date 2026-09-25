@@ -17,4 +17,5 @@ itHub Gist is a simple way to share a small piece of code, commands, notes, or t
 Gist = small piece of code/text to share.
 Fork = make your own copy while keeping the connection/history.
 
+Github flow :
 Branch → commit → open PR → review → merge → delete the branch.
