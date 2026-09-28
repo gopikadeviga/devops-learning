@@ -14,3 +14,7 @@ Milestone vs release.
 A release is a published, downloadable package tied to a Git tag. 
 A milestone is planning: the work you intend to finish. 
 You might use a milestone to track the work, then publish a release when it's done.
+
+Scope. 
+A milestone only holds items from its own repository. 
+A project can span many repositories, which is why teams working across repos plan in Projects and use milestones per repo.
