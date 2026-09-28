@@ -9,3 +9,8 @@ A milestone lives on the repository, is one-off, and has a single due date.
 An iteration lives in a project as a custom field and repeats on a cadence. 
 Sprints → iteration. 
 A release with a deadline → milestone.
+
+Milestone vs release. 
+A release is a published, downloadable package tied to a Git tag. 
+A milestone is planning: the work you intend to finish. 
+You might use a milestone to track the work, then publish a release when it's done.
