@@ -1,1 +1,6 @@
+### Git Projects
+
+Milestone vs label. 
+A label is a tag for categorising by kind (bug, documentation). 
+A milestone is for grouping by goal, and it tracks completion. Labels don't have dates or progress.
 
