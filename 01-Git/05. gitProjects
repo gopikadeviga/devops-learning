@@ -4,3 +4,8 @@ Milestone vs label.
 A label is a tag for categorising by kind (bug, documentation). 
 A milestone is for grouping by goal, and it tracks completion. Labels don't have dates or progress.
 
+Milestone vs iteration. 
+A milestone lives on the repository, is one-off, and has a single due date. 
+An iteration lives in a project as a custom field and repeats on a cadence. 
+Sprints → iteration. 
+A release with a deadline → milestone.
