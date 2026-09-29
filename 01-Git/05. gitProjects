@@ -28,3 +28,4 @@ Iteration — a repeating time box (sprints) that generates dated periods automa
 Milestone — a repository goal with an optional due date and a percent-complete bar.
 Label — a tag for what kind of thing an issue is, like bug or documentation.
 Assignee — who is responsible for an issue or PR, up to 10 people.
+Release — a published, downloadable package tied to a Git tag.
