@@ -23,5 +23,6 @@ A project can span many repositories, which is why teams working across repos pl
 Project — a planning board that pulls issues and PRs from any number of repos into one place.
 Table / Board / Roadmap — the three ways to look at a project: spreadsheet, kanban columns, timeline.
 Custom field — an extra column you define on a project (text, number, date, single select, iteration).
+Single select — a field with a fixed list of choices, so you can group and filter reliably.
 
 
