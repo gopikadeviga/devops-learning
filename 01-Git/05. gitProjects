@@ -26,4 +26,5 @@ Custom field — an extra column you define on a project (text, number, date, si
 Single select — a field with a fixed list of choices, so you can group and filter reliably.
 Iteration — a repeating time box (sprints) that generates dated periods automatically.
 Milestone — a repository goal with an optional due date and a percent-complete bar.
-
+Label — a tag for what kind of thing an issue is, like bug or documentation.
+Assignee — who is responsible for an issue or PR, up to 10 people.
