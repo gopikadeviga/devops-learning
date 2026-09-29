@@ -29,3 +29,6 @@ Milestone — a repository goal with an optional due date and a percent-complete
 Label — a tag for what kind of thing an issue is, like bug or documentation.
 Assignee — who is responsible for an issue or PR, up to 10 people.
 Release — a published, downloadable package tied to a Git tag.
+Project workflow — built-in automation, such as setting Status to Done when an item closes.
+Insights — charts showing a project's progress now and over time.
+
