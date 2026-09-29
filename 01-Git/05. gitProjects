@@ -25,5 +25,5 @@ Table / Board / Roadmap — the three ways to look at a project: spreadsheet, ka
 Custom field — an extra column you define on a project (text, number, date, single select, iteration).
 Single select — a field with a fixed list of choices, so you can group and filter reliably.
 Iteration — a repeating time box (sprints) that generates dated periods automatically.
-
+Milestone — a repository goal with an optional due date and a percent-complete bar.
 
