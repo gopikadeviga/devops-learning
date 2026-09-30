@@ -20,6 +20,7 @@ A milestone only holds items from its own repository.
 A project can span many repositories, which is why teams working across repos plan in Projects and use milestones per repo.
 
 ###Notes:
+
 Project — a planning board that pulls issues and PRs from any number of repos into one place.
 Table / Board / Roadmap — the three ways to look at a project: spreadsheet, kanban columns, timeline.
 Custom field — an extra column you define on a project (text, number, date, single select, iteration).
