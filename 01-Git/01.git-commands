@@ -153,3 +153,4 @@ Gives only essential online info..
 ## git fetch - downloads remote changes but does not merge.
 ## git pull = fetch + merge.
 ##  git push - uploads local commits.
+## .gitignore - lists files Git should not track (build output, secrets, logs).
