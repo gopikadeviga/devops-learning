@@ -145,3 +145,5 @@ Gives the full commit history with details
 
 git log --oneline
 Gives only essential online info..
+
+## git diff - see unstaged changes.
