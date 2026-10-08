@@ -25,3 +25,8 @@ the project folder plus its full history (stored in the hidden .git folder).
 
 Commit: 
 a snapshot of staged changes, identified by a unique SHA hash, with author, date and message.
+
+Branch: 
+a lightweight movable pointer to a commit, used to work in isolation. 
+The default branch (usually main) is the base for pull requests and what visitors see first.
+
