@@ -5,6 +5,8 @@ git --version
 Example:
 git version 2.55.0.windows.5
 
+###git init - start a repo
+
 ## Git Clone
 Purpose: Clone a remote repository to the local machine.
 
