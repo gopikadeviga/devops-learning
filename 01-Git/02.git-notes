@@ -30,3 +30,7 @@ Branch:
 a lightweight movable pointer to a commit, used to work in isolation. 
 The default branch (usually main) is the base for pull requests and what visitors see first.
 
+Three areas: 
+working directory -> staging area (index) -> local repository. 
+git add stages, git commit records, git push uploads to the remote.
+
