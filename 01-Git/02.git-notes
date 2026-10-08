@@ -22,3 +22,6 @@ Branch → commit → open PR → review → merge → delete the branch.
 
 Repository (repo): 
 the project folder plus its full history (stored in the hidden .git folder).
+
+Commit: 
+a snapshot of staged changes, identified by a unique SHA hash, with author, date and message.
