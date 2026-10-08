@@ -147,3 +147,6 @@ git log --oneline
 Gives only essential online info..
 
 ## git diff - see unstaged changes.
+## git branch <name> - create a branch 
+## git switch <name> or git checkout <name> - move to it 
+## git merge <branch> - combine into current branch
