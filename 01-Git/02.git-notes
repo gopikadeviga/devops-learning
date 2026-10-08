@@ -19,3 +19,6 @@ Fork = make your own copy while keeping the connection/history.
 
 Github flow :
 Branch → commit → open PR → review → merge → delete the branch.
+
+Repository (repo): 
+the project folder plus its full history (stored in the hidden .git folder).
