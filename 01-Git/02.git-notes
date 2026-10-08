@@ -34,3 +34,5 @@ Three areas:
 working directory -> staging area (index) -> local repository. 
 git add stages, git commit records, git push uploads to the remote.
 
+Remote: 
+a copy of the repo hosted elsewhere, by default named origin.
