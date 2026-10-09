@@ -1,7 +1,4 @@
-## Git Version
-Syntax:
-git --version
-
+## git --version
 Example:
 git version 2.55.0.windows.5
 
