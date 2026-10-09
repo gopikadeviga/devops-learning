@@ -78,7 +78,6 @@ git add *.txt
 ## Git remove
 Syntax:
 1.git rm <filename>
-
 Example: git rm one.txt
 Deletes one.txt file and also stages it at the same time.
 
@@ -129,7 +128,6 @@ Syntax:
 ```
 git commit -m "<commit message>"
 ```
-
 Example:
 git commit -m "I have made some changes to files"
 
