@@ -32,5 +32,11 @@ Valid CODEOWNERS locations: root, docs/, .github/.
 GitHub Flow :
 Branch → commit → open PR → review → merge → delete the branch.
 
+Insights:
+Pulse — recent activity summary: merged PRs, opened issues, active contributors
+Traffic — views, clones, referrers, last 14 days, needs push access
+Code frequency — lines added and deleted over time
+Contributors — who committed, and how much
+Dependency graph — what you depend on, read from manifest and lock files
 
 
