@@ -19,7 +19,6 @@ Jobs run on runners:
 GitHub-hosted gives each job a fresh, throwaway VM (Ubuntu, Windows or macOS); 
 self-hosted runs on your own machines. 
 Nothing persists between runs.
-
 workflows automate work; dev containers configure your workspace.
 
 CODEOWNERS vs the other repo files :
