@@ -58,3 +58,5 @@ your account menu option to switch early-access features on or off.
 ###Collaborate using GitHub:
 Issues: track bugs, tasks and ideas. Support labels, assignees (up to 10), milestones, projects,
 templates and sub-issues.
+Pull requests: propose merging one branch into another, with diff, reviews, comments and
+status checks.
