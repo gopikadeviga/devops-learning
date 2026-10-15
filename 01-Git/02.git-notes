@@ -47,3 +47,6 @@ Insights tab:
 Pulse (recent activity summary), Contributors, Commits, Code frequency,
 Dependency graph, Network, Forks, and Traffic (views, clones, referrers for the last 14 days,
 needs push access).
+
+Dependency graph: 
+dependencies and dependents parsed from manifest and lock files; feeds Dependabot alerts.
