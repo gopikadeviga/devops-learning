@@ -60,3 +60,4 @@ Issues: track bugs, tasks and ideas. Support labels, assignees (up to 10), miles
 templates and sub-issues.
 Pull requests: propose merging one branch into another, with diff, reviews, comments and
 status checks.
+Draft PRs cannot be merged and do not auto-request code owners until marked ready.
