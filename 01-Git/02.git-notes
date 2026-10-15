@@ -52,3 +52,5 @@ Dependency graph:
 dependencies and dependents parsed from manifest and lock files; feeds Dependabot alerts.
 Stars: 
 bookmark a repo and show appreciation; star counts help discovery. Starring does not subscribe you to notifications.
+Feature preview: 
+your account menu option to switch early-access features on or off.
