@@ -41,3 +41,7 @@ Contributors — who committed, and how much
 Dependency graph — what you depend on, read from manifest and lock files
 Network / Forks — branches and forks
 
+Merge methods: 
+Create a merge commit (keeps all commits), 
+Squash and merge (one commit), 
+Rebase and merge (replays commits, linear history).
