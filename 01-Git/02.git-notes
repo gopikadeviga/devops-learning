@@ -42,3 +42,8 @@ free GUI app (Windows, macOS) for Git work without the command line: clone,
 branch, commit, push, pull, resolve simple conflicts.
 GitHub Mobile (iOS, Android): triage notifications, read and comment on issues and PRs, review
 and merge PRs, manage repos on the go. Not a full IDE.
+
+Insights tab: 
+Pulse (recent activity summary), Contributors, Commits, Code frequency,
+Dependency graph, Network, Forks, and Traffic (views, clones, referrers for the last 14 days,
+needs push access).
