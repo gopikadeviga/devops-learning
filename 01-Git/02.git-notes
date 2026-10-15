@@ -40,3 +40,5 @@ a copy of the repo hosted elsewhere, by default named origin.
 GitHub Desktop: 
 free GUI app (Windows, macOS) for Git work without the command line: clone,
 branch, commit, push, pull, resolve simple conflicts.
+GitHub Mobile (iOS, Android): triage notifications, read and comment on issues and PRs, review
+and merge PRs, manage repos on the go. Not a full IDE.
